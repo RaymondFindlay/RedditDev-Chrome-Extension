@@ -1,6 +1,6 @@
 # RedditDev Launcher Chrome Extension
 
-Handy extension to launch subreddits quickly from a chrome. 
+Handy extension to launch subreddits quickly from chrome browser. 
 
 __TODO__
 
