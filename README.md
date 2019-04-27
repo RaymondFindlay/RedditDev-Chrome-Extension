@@ -6,4 +6,7 @@ __TODO__
 
 * Add functionality for users to add/remove subreddits 
 
-![preview] (preview.PNG)
+
+### Preview:
+
+![preview](images/preview.PNG)
